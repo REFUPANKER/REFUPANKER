@@ -1,5 +1,5 @@
-## hello there i am REFUPANKER
-###### I am developing mini applications for making life easy
+## i'm REFUPANKER
+###### I'm developing mini applications for making life easy
 ###  Software languages i know 
 ```
 - C#
@@ -7,10 +7,6 @@
 - Python (a little bit improved)
 - Web languages(html/css + javascript(a little bit)) <br>
 ```
-i want to be software engineer for develop applications to make life easy
-i want to help everyone , i want to protect everyone
-keep safe, stay safe 
-i am REFUPANKER
 __develops and improves__
 
 ### PROJECTS (2021/202-)
