@@ -14,4 +14,4 @@ i am REFUPANKER
 - develops and improves
 
 ### PROJECTS (2021/202-)
-[Weekly Question Solving][https://WeeklyQuestionSolvingSite1.pactrefupanker.repl.co]
+[Weekly Question Solving]:https://WeeklyQuestionSolvingSite1.pactrefupanker.repl.co
