@@ -1,6 +1,6 @@
 ###### hello there i am REFUPANKER
-student , i am developing mini applications for making life easy
-### > software languages i know 
+#### I am developing mini applications for making life easy
+###  Software languages i know 
 ```
 - C#
 - Java (just basics)
