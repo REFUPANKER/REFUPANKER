@@ -9,7 +9,7 @@ Living in : Turkiye
 ###  Software languages i know 
 ```
 - C#                        80%
-- Java                      30%
+- Java                      40%
 - Python                    60%
 - Html/Css - Javascript     70%
 ```
