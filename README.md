@@ -8,10 +8,10 @@ Living in : Turkiye
 ---
 ###  Software languages i know 
 <div>
-<img width="50" height="50" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
-<img width="50" height="50" src="https://freepikpsd.com/file/2019/10/java-logo-png-transparent-background-2-Transparent-Images.png"/>
-<img width="50" height="50" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"/>
-<img width="50" height="50" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo.png"/>
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
+<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
 </div>
 
 ---
