@@ -2,7 +2,7 @@
 ---
 ```
 I'm developing mini applications for making life easy
-Born in : 2004.06.29
+Born in   : 2004.06.29
 Living in : Turkiye
 ``` 
 ---
