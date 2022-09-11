@@ -6,8 +6,8 @@ Born in   : 2004.06.29
 Living in : Turkiye
 ``` 
 ---
-###  Software languages i know 
-<div>
+###  Software Skills 
+<div >
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
@@ -15,7 +15,13 @@ Living in : Turkiye
 </div>
 
 ---
-_Develops and improves..._
+
+
+<div align="center">
+  Develops and improves
+</div>
+  
+  
 ---
 ### PROJECTS (2021/202-)
 - [**Project Downloader**](https://projectmanager.pactrefupanker.repl.co)
