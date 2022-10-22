@@ -23,7 +23,22 @@ Living in : Turkiye
   
 ---
 ### Recommended Links
-- [**Java Android Development Mini Hints**](https://github.com/REFUPANKER/JavaAndroid_MiniDetails)
-- [**Console Store**](https://github.com/REFUPANKER/ConsoleStore_WithJava)  
+> [Unclassified Projects](https://github.com/REFUPANKER/REFUPANKER/edit/main/README.md#unclassified-projects)  
+> [Java Projects](https://github.com/REFUPANKER/REFUPANKER/edit/main/README.md#java-projects)  
+> [CSharp Projects](https://github.com/REFUPANKER/REFUPANKER/edit/main/README.md#csharp-projects)  
+
+## Unclassified Projects
 - [**Project Downloader**](https://projectmanager.pactrefupanker.repl.co)  
 - [**Weekly Question Solving**](https://WeeklyQuestionSolvingSite1.pactrefupanker.repl.co)  
+- [**Close Windows Update**](https://github.com/REFUPANKER/Windows-Update-Disable-Remove)
+## Java Projects
+- [**Java Console Store**](https://github.com/REFUPANKER/ConsoleStore_WithJava)  
+- [**Java Binary Converter**](https://github.com/REFUPANKER/BinaryConverter-With-Java)
+- [**Java Console Adventure Game**](https://github.com/REFUPANKER/ConsoleAdventureGame_Java)
+- [**Java Android Development Mini Hints**](https://github.com/REFUPANKER/JavaAndroid_MiniDetails)
+
+## CSharp Projects
+- [**CSharp Console Wave Effect Test**](https://github.com/REFUPANKER/Console_WaveEffectTest1)
+- [**CSharp WPF Form Movement Code**](https://github.com/REFUPANKER/CSharp-WPF-Form-Movement-Code)
+- [**CSharp Async Web Scrape**](https://github.com/REFUPANKER/CSharp_AsyncWebScrape)
+- [**CSharp YouTube MP3 Downloader**](https://github.com/REFUPANKER/YouTube-MP3-Downloader-CSharp)
