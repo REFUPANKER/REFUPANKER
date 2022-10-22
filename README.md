@@ -23,9 +23,9 @@ Living in : Turkiye
   
 ---
 ### Recommended Links
-> [Unclassified Projects](https://github.com/REFUPANKER/REFUPANKER/edit/main/README.md#unclassified-projects)  
+> [Unclassified Projects](https://github.com/REFUPANKER#unclassified-projects)  
 > [Java Projects](https://github.com/REFUPANKER/REFUPANKER/edit/main/README.md#java-projects)  
-> [CSharp Projects](https://github.com/REFUPANKER/REFUPANKER/edit/main/README.md#csharp-projects)  
+> [CSharp Projects](https://github.com/REFUPANKER#csharp-projects)  
 
 ## Unclassified Projects
 - [**Project Downloader**](https://projectmanager.pactrefupanker.repl.co)  
