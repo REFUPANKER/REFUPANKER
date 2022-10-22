@@ -23,6 +23,7 @@ Living in : Turkiye
   
 ---
 ### PROJECTS (2021/202-) [not all projects]
+- [**Java Android Development Mini Hints**](https://github.com/REFUPANKER/JavaAndroid_MiniDetails)
 - [**Console Store**](https://github.com/REFUPANKER/ConsoleStore_WithJava)  
 - [**Project Downloader**](https://projectmanager.pactrefupanker.repl.co)  
 - [**Weekly Question Solving**](https://WeeklyQuestionSolvingSite1.pactrefupanker.repl.co)  
