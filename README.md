@@ -38,7 +38,7 @@ Living in : Turkiye
 - [**Java Android Development Mini Hints**](https://github.com/REFUPANKER/JavaAndroid_MiniDetails)
 
 ## CSharp Projects
---[**Csharp MsAcdb ChatApp**](https://github.com/REFUPANKER/Csharp-MsAcdb-ChatApp)
+- [**Csharp MsAcdb ChatApp**](https://github.com/REFUPANKER/Csharp-MsAcdb-ChatApp)
 - [**CSharp Console Wave Effect Test**](https://github.com/REFUPANKER/Console_WaveEffectTest1)
 - [**CSharp WPF Form Movement Code**](https://github.com/REFUPANKER/CSharp-WPF-Form-Movement-Code)
 - [**CSharp Async Web Scrape**](https://github.com/REFUPANKER/CSharp_AsyncWebScrape)
