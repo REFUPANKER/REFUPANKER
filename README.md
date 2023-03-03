@@ -1,10 +1,16 @@
-# i'm REFUPANKER
-```
+<h1 align="center"> i'm REFUPANKER  
+</h1>
+<div align="right" >
+  <pre>
 I'm developing mini applications for making life easy
 Born in   : 2004.06.29
 Living in : Turkiye
-``` 
----
+</pre>
+</div>  
+
+<hr>
+
+
 ###  Software Skills 
 <div >
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
