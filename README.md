@@ -3,16 +3,22 @@
 
 
 ###  Software Skills 
-<div >
+<div>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
 <img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
-</div>
+</div>  
 
+### Target Platforms
 ---
+![Windows](https://img.shields.io/badge/%20-Windows%20-blue)
+![MacOs](https://img.shields.io/badge/%20-MacOs%20-orange)
+![Android](https://img.shields.io/badge/%20-Android%20-green)
+![iOS](https://img.shields.io/badge/%20-iOS%20-yellow)
 
 
+<hr>
 <div align="center">
   Develops and improves
 </div>
