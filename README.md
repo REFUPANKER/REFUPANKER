@@ -34,7 +34,7 @@
 > [Unclassified Projects](https://github.com/REFUPANKER#unclassified-projects)  
 > [Java   Projects](https://github.com/REFUPANKER#java-projects)  
 > [CSharp Projects](https://github.com/REFUPANKER#csharp-projects)  
-> [Python Projects](https://github.com/REFUPANKER/REFUPANKER#python-projects)
+> [Python Projects](https://github.com/REFUPANKER#python-projects)
 
 ## Unclassified Projects
 - [**Project Downloader**](https://projectmanager.pactrefupanker.repl.co)  
