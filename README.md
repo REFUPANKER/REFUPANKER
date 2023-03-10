@@ -26,8 +26,10 @@
 
 ---
   
-## [**My Blog Site**](https://refupanker.github.io/BlogSite/)
+## [**My Blog Site**](https://refupanker.github.io/BlogSite/,_blank)
   i will share my projects in my blog too
+
+
 # Recommended Links
 > [Unclassified Projects](https://github.com/REFUPANKER#unclassified-projects)  
 > [Java Projects](https://github.com/REFUPANKER#java-projects)  
