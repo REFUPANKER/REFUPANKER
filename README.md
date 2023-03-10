@@ -26,7 +26,7 @@
 
 ---
   
-<h1> <a target="_blank" href="https://refupanker.github.io/BlogSite/"> My Blog Site</a></h1>
+<h1> <a href="https://refupanker.github.io/BlogSite/" target="_blank"> My Blog Site</a></h1>
   i will share my projects in my blog too
 
 
