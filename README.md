@@ -11,7 +11,6 @@
 </div>  
 
 ### Target Platforms
----
 ![Windows](https://img.shields.io/badge/%20-Windows%20-blue)
 ![MacOs](https://img.shields.io/badge/%20-MacOs%20-orange)
 ![Android](https://img.shields.io/badge/%20-Android%20-green)
