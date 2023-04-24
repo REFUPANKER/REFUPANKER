@@ -1,27 +1,7 @@
-<h1 align="center"> i'm REFUPANKER  
-</h1>
+<p align="center">
+<img width="900" height="558" src="https://user-images.githubusercontent.com/68808212/234114379-9126f6fd-f06a-4a06-9a4e-c15ba8570863.png">
+</p>
 
-
-###  Software Skills 
-<div>
-<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"/>
-<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"/>
-<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"/>
-<img width="50" height="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png"/>
-</div>  
-
-### Target Platforms 
-<div>
-<img height="50" src="https://img.shields.io/badge/%20-Windows%20-blue"/>
-<img height="50" src="https://img.shields.io/badge/%20-MacOs%20-orange"/>
-<img height="50" src="https://img.shields.io/badge/%20-Android%20-green"/>
-<img height="50" src="https://img.shields.io/badge/%20-iOS%20-yellow"/>
-</div>
-<hr>
-<div align="center">
-  Develops and improves
-</div>
-  
 
 ---
   
