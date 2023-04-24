@@ -1,9 +1,8 @@
 <p align="center">
-<img width="900" height="558" src="https://user-images.githubusercontent.com/68808212/234114379-9126f6fd-f06a-4a06-9a4e-c15ba8570863.png">
+<img width="900" height="400" src="https://user-images.githubusercontent.com/68808212/234115936-21d3c29d-bee6-4aa9-b18c-9b7a5bf92b44.png">
 </p>
 
-
----
+<hr>
   
 <h1> <a href="https://refupanker.github.io/BlogSite/" target="_blank"> My Blog Site</a></h1>
   i will share my projects in my blog too
