@@ -47,7 +47,7 @@
 - [**Java Android Development Mini Hints**](https://github.com/REFUPANKER/JavaAndroid_MiniDetails)
 
 ## CSharp Projects
-- [**SquareSlidePuzzle**](https://github.com/REFUPANKER/SquareSlidePuzzle)
+- [**Square Slide Puzzle**](https://github.com/REFUPANKER/SquareSlidePuzzle)
 - [**Csharp MsAcdb ChatApp**](https://github.com/REFUPANKER/Csharp-MsAcdb-ChatApp)
 - [**Hospital System CSharp OOP**](https://github.com/REFUPANKER/HospitalSystemCSharpOOP)
 - [**CSharp Console Wave Effect Test**](https://github.com/REFUPANKER/Console_WaveEffectTest1)
