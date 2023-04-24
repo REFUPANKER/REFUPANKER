@@ -4,8 +4,7 @@
 
 <hr>
   
-<h1> <a href="https://refupanker.github.io/BlogSite/" target="_blank"> My Blog Site</a></h1>
-  i will share my projects in my blog too
+<h1> <a href="https://refupanker.github.io/BlogSite/" target="_blank">Blog</a></h1>
 
 
 # Recommended Links
