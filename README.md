@@ -3,9 +3,6 @@
 </p>
 
 <hr>
-  
-<h1> <a href="https://refupanker.github.io/BlogSite/" target="_blank">Blog</a></h1>
-
 
 # Recommended Links
 > [Unclassified Projects](https://github.com/REFUPANKER#unclassified-projects)  
