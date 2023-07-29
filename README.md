@@ -1,37 +1,22 @@
-<p align="center">
-<img width="900" height="400" src="https://user-images.githubusercontent.com/68808212/234115936-21d3c29d-bee6-4aa9-b18c-9b7a5bf92b44.png">
-</p>
+# <div align="center">REFUPANKER</div> 
 
-<hr>
+<div>
+  <div align="left">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=refupanker&hide=contribs&show_icons=true&theme=github_dark_dimmed">
+    <h3>im software developer 👨‍💻<br></h3>
+     Im creating projects with random teams and
+     teaching beginners how to code<br><br><br><br>
+  <h2 align="center">Software languages i usually use</h2>
+    <div>
+      <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50" height="50">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50" height="50">
+      <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50" height="50">
+    </div>
+  </div>  
+</div>   
 
-# Recommended Links
-> [Unclassified Projects](https://github.com/REFUPANKER#unclassified-projects)  
-> [Java   Projects](https://github.com/REFUPANKER#java-projects)  
-> [CSharp Projects](https://github.com/REFUPANKER#csharp-projects)  
-> [Python Projects](https://github.com/REFUPANKER#python-projects)
-
-## Unclassified Projects
-- [**Project Downloader**](https://projectmanager.pactrefupanker.repl.co)  
-- [**Weekly Question Solving**](https://WeeklyQuestionSolvingSite1.pactrefupanker.repl.co)  
-- [**Close Windows Update**](https://github.com/REFUPANKER/Windows-Update-Disable-Remove)
-
-## Java Projects
-- [**Java Console Store**](https://github.com/REFUPANKER/ConsoleStore_WithJava)  
-- [**Java Binary Converter**](https://github.com/REFUPANKER/BinaryConverter-With-Java)
-- [**Java Console Adventure Game**](https://github.com/REFUPANKER/ConsoleAdventureGame_Java)
-- [**Java Android Development Mini Hints**](https://github.com/REFUPANKER/JavaAndroid_MiniDetails)
-
-## CSharp Projects
-- [**Square Slide Puzzle**](https://github.com/REFUPANKER/SquareSlidePuzzle)
-- [**Csharp MsAcdb ChatApp**](https://github.com/REFUPANKER/Csharp-MsAcdb-ChatApp)
-- [**Hospital System CSharp OOP**](https://github.com/REFUPANKER/HospitalSystemCSharpOOP)
-- [**CSharp Console Wave Effect Test**](https://github.com/REFUPANKER/Console_WaveEffectTest1)
-- [**CSharp WPF Form Movement Code**](https://github.com/REFUPANKER/CSharp-WPF-Form-Movement-Code)
-- [**CSharp Async Web Scrape**](https://github.com/REFUPANKER/CSharp_AsyncWebScrape)
-- [**CSharp YouTube MP3 Downloader**](https://github.com/REFUPANKER/YouTube-MP3-Downloader-CSharp)
-- [**CSharp Invert Colors Black To White**](https://github.com/REFUPANKER/InvertColors_BtoW)
-
-## Python Projects
-- [**DiscordPy iPyBot**](https://github.com/REFUPANKER/DiscordPy-iPyBot)
-- [**Py WeeklyQuestionSolving2**](https://github.com/REFUPANKER/Py_WeeklyQuestionSolving2)
-- [**Python Writing text-to image**](https://github.com/REFUPANKER/Python-Writing-text-to-image)
+### <div align="center"> Recommended projects </div>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=refupanker&theme=gotham&repo=CsharpMiniNotes)](https://github.com/REFUPANKER/CsharpMiniNotes)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=refupanker&theme=gotham&repo=DiscordPy-iPyBot)](https://github.com/REFUPANKER/DiscordPy-iPyBot)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=refupanker&theme=gotham&repo=ConsoleAdventureGame_Java)](https://github.com/REFUPANKER/ConsoleAdventureGame_Java)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=refupanker&theme=gotham&repo=JustWantToCodeSeries)](https://github.com/REFUPANKER/JustWantToCodeSeries)
