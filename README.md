@@ -12,3 +12,17 @@ my ✨favorite✨ languages
     ⋮   
  ∞. Dart
 ```
+
+## Example Projects
+
+Php  
+- [LastAction](https://github.com/REFUPANKER/LastAction_TechnicServiceTool)  
+- [WhatIsNext](https://github.com/REFUPANKER/WhatIsNext_BasicSocialMediaApp)
+
+Unity  
+- [The_2D_Ski_Game](https://github.com/REFUPANKER/The_2D_Ski_Game)  
+- [DieticianSimulator](https://github.com/REFUPANKER/Unity_DieticianSimulator)
+
+Python  
+- [PyGameVideoSharer](https://github.com/REFUPANKER/Python_PyGameVideoSharer)
+
