@@ -2,7 +2,7 @@
 learning and educating software with newbies as a teacher or friend.
 👨‍🏫📖   
 im creating apps for all platforms *`(not including xbox and ps)`* 🙃  
-my ✨favorite✨ languages    
+### my ✨favorite✨ languages    
 ```
  1. CSharp
  2. Java
