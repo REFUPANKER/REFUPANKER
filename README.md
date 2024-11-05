@@ -31,6 +31,6 @@ Android Apps
 - [TeachMeTech](https://github.com/REFUPANKER/TeachMeTech)
 
 React
-- [TeachMeTech for Authors](https://github.com/REFUPANKER/TeachMeTech_web)
+- [TeachMeTech for Authors](https://github.com/REFUPANKER/TeachMeTech_web) | [RELEASED](https://teach-me-tech.vercel.app/)
 
 
