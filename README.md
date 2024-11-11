@@ -28,7 +28,7 @@ Python
 - [Mp3Downloader](https://github.com/REFUPANKER/Python_Mp3Downloader)
 
 Android Apps
-- [TeachMeTech](https://github.com/REFUPANKER/TeachMeTech)
+- [TeachMeTech](https://github.com/REFUPANKER/TeachMeTech) | [RELEASED]A(https://github.com/REFUPANKER/TeachMeTech/releases/tag/Education)
 
 React
 - [TeachMeTech for Authors](https://github.com/REFUPANKER/TeachMeTech_web) | [RELEASED](https://teach-me-tech.vercel.app/)
